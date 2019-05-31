@@ -1,5 +1,5 @@
 # KerasGAN
-A GAN implemented in Keras
+A GAN implemented in Keras.  This is essentially a fork of https://github.com/eriklindernoren/Keras-GAN/tree/master/wgan_gp with some tweaks (e.g. flexible image sizes, etc).
 
 ## Tested in this environment
 gcc/6.2.0
